@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Divyansh Rajput 👋
 
-<!--
-**divyanshrajput016/divyanshrajput016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on building scalable web applications and solving real-world problems.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Frontend: HTML, CSS, JavaScript, React , Next
+- Backend: Node.js, Express.js , Nest.js
+- Databases: MongoDB, MySQL
+- Tools: Git, GitHub, Postman , Docker , Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Doing
+- Building full-stack projects
+- Practicing Data Structures & Algorithms
+- Preparing for Software Development roles
+
+## Featured Projects
+- AI Resume Analyzer (React, Node.js, Express.js, MongoDB, Gemini API)
+- Full Stack Web Applications (React, Node.js, Express.js, MongoDB)
+- REST APIs & Authentication Systems (JWT, bcrypt, Express.js, MongoDB)
+
+## Profiles
+- LeetCode: https://leetcode.com/u/krishuuu016/
+- LinkedIn: https://www.linkedin.com/in/divyansh-rajput-50bb08331/
+
+---
+Always learning, building, and improving.
